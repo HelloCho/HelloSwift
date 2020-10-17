@@ -1,0 +1,9 @@
+[submodule "first-week/sbcho/miniproject2/Project"]
+	path = first-week/sbcho/miniproject2/Project
+	url = https://github.com/HelloCho/HelloSwift.git
+[submodule "first-week/sbcho/miniproject2/first-week/sbcho/miniproject2/Project"]
+	path = first-week/sbcho/miniproject2/first-week/sbcho/miniproject2/Project
+	url = https://github.com/HelloCho/MiniProject2.git
+[submodule "first-week/sbcho/miniproject2/Project_Material"]
+	path = first-week/sbcho/miniproject2/Project_Material
+	url = https://github.com/HelloCho/MiniProject2.git
